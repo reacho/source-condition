@@ -13,3 +13,11 @@ The main file is
 'Source conditions for linear inverse problems.ipynb'.
 
 Images will be saved in 'Data/Images/2DSC'.
+
+### Warning
+First, create folders: <br>
+'output-img', <br>
+'output-img-thin', <br>
+'Data/Images/2DSC'.
+
+Then run the code.
